@@ -1,0 +1,28 @@
+# --- STM32CubeIDE ---
+# Build Folders (Generated binaries)
+Debug/
+Release/
+
+# Local configuration files
+.settings/
+.launches/
+*.launch
+
+# External/Middleware generated files (if you want them clean)
+# Optional: keep these if you want users to have a "ready to go" experience 
+# without needing to run the code generator themselves.
+# Middlewares/
+# Drivers/
+
+# --- Standard C/C++ ---
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# OS-specific
+.DS_Store
+Thumbs.db
